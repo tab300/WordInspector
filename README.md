@@ -1,6 +1,6 @@
 # WordInspector
 
-This is a gem written as an example for a tutorial on how to build a gem. It is able to strip consonants and vowels from any given word.
+This is a gem written as an example for a tutorial on how to build a gem. It is able to strip consonants and vowels from any given word. It has NOT been released to rubygems.org as that wasn't the purpose.
 
 ## Installation
 
